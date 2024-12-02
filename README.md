@@ -19,7 +19,7 @@ Instructions for running solutions will be added as they are completed.
 | Day | Part 1 | Part 2 |
 |-----|---------|---------|
 | 01  | ⭐      | ⭐      |
-| 02  | ❌      | ❌      |
+| 02  | ⭐      | ⭐      |
 | 03  | ❌      | ❌      |
 | 04  | ❌      | ❌      |
 | ... | ...     | ...     |
